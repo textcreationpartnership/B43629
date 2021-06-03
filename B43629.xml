@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anno regni Gulielmi &amp; Mariae regis &amp; reginae, Angliae, Scotiae, Franciae &amp; Hiberniae quinto. An act for granting to King William and Queen Mary the rate of one penny per pound upon the clear value of all the real and personal estates and six shillings per head upon such as are not otherwise rated by this act.  To be imployed by the Governour of the province of Pennsilvania and territories thereof, for the time being, towards the support of this government.</title>
+            <author>Pennsylvania.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43629</idno><idno type="EEBO-CITATION">489263231</idno>
+  <idno type="VID">208667</idno>
+  <idno type="EEBO-PROQUEST">2240892972</idno>
+  
+            <idno type="OCLC"> 489263231</idno>
+            <idno type="OCLC">ocn 489263231</idno>
+            <idno type="STC">Wing P1399A</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43629)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208667)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2956:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Anno regni Gulielmi &amp; Mariae regis &amp; reginae, Angliae, Scotiae, Franciae &amp; Hiberniae quinto. An act for granting to King William and Queen Mary the rate of one penny per pound upon the clear value of all the real and personal estates and six shillings per head upon such as are not otherwise rated by this act.  To be imployed by the Governour of the province of Pennsilvania and territories thereof, for the time being, towards the support of this government.</title>
+                  <author>Pennsylvania.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>By William Bradford,</publisher>
+                  <pubPlace>[New York :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: New York Public Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Taxation --  Law and legislation --  Pennsylvania --  Early works to 1800.</term>
+               <term type="geographic_name">Pennsylvania --  History --  Colonial period, ca. 1600-1775 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="act">
+            <pb facs="tcp:208667:1"/>
+            <pb facs="tcp:208667:2"/>
+            <pb facs="tcp:208667:2"/>
+            <opener>
+               <dateline>
+                  <date>Anno Regni Gulielmi &amp; Mariae, REGIS &amp; REGINAE, Angliae, Scotiae, Franciae &amp; Hiberniae, QUINTO.</date>
+               </dateline>
+            </opener>
+            <head>
+               <hi>An</hi> ACT <hi>for granting to King</hi> William <hi>and Queen</hi> Mary <hi>the Rate of One Penny</hi> per <hi>Pound upon the clear Value of all the Real and Personal Estates, and Six Shillings</hi> per <hi>Head upon such as are not otherwise rated by this Act. To be imployed by the Governour of this Prov<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce of</hi> Pennsilvania <hi>and Territories thereof, for the Time being, towards the Support of this Government.</hi>
+            </head>
+            <p>SInce it hath pleased the King and Queen to take the Government of this Province and Counties into Their own hands, and supply the absence of our Proprietor, by so worthy a Person, who gave us such great Assurances of his good desires to preserve and confirm us in our Rights and Liberties: We the Representàtives met in general Assembly, with humble Submission to the King and Queens Pleasure therein, and with all dutiful Acknowledgments of their Care and tender Regard to the reasonable Laws and Constitu<g ref="char:EOLhyphen"/>tions, as well as Protections of this Government, do humbly pre<g ref="char:EOLhyphen"/>sent the said King and Queen with the free Gift of the Rates and Assesments herein after-mentioned, which we desire they would please to accept of, as a Testimony of our dutiful Affections towards them; and we do likewise desire that the King and Queen would be pleased to give and allow one half thereof to <hi>Benjamin Fletcher,</hi> Captain General and Governour in Chief in and over this Province and Country, <hi>&amp;c.</hi> that it may be so enacted.</p>
+            <pb facs="tcp:208667:3"/>
+            <p> Be it therefore Enacted by the Governour, Council, and Repre<g ref="char:EOLhyphen"/>sentatives convened in General Assembly, and by the Authority of the same, That all and every Person and Persons within this Govern<g ref="char:EOLhyphen"/>ment, having any Personal Estates, either in their Possessions, or in the Possessions of others, in trust for them, over and beside the House<g ref="char:EOLhyphen"/>hold Goods and Implements they use, and such Sums of Money as they really owe or ought to pay, shall yield and pay to the use afore<g ref="char:EOLhyphen"/>said, after the rate of One Penny <hi>per</hi> Pound. And to the end that this Tax may be laid with as much Equality and Indifferency as may be, upon all Lands within this Government, and that a due regard may be had to the many Tracts of uncultivated and unprofitable Lands, which produce rather a Charge than Profit to the Owners there<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f, Be it Enacted by the Authority aforesaid, That all Lands, and other Real, as also the Personal Estates shall be, and are hereby charged f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r one Year only, and no longer, with One Penny for ever, Pound clear Value.</p>
+            <p>And be it further Enacted by the Authority aforesaid, That all Free-men within this Province and Territories, who have been out of their Servitude by the Space of six Months, and shall n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t be other<g ref="char:EOLhyphen"/>wise Rated by this Act, nor worth one hundred Pound, shall pay unto the Use aforesaid the Sum of Six Shillings <hi>per</hi> Head. Pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vided always, That our chief Proprietary and his late Deputies in Govern<g ref="char:EOLhyphen"/>ment shall not be assessed or otherwise chargeable by virtue of this Act. Provided also, That no Person or Persons shall be taxed by this Act who have a great charge of Children, and become indigent in the World, and are so far in debt that the clear Value of their Real and Personal Estate doth not amount to thirty Pounds.</p>
+            <p>And be it further Enacted by the Authority aforesaid, That for the better assessing, ordering, levying and collecting the several Sums of Money, so to be paid as aforesaid, and for the more effectual put<g ref="char:EOLhyphen"/>ting this Act in Execution, It shall and may be lawful for all or any two or more of the Members of this Assembly, within the Respective Counties for which they serve, to call to their assistance three of the Justices, or other substantial Free-holders of the respective Counties, and within two Months after the publication hereof, to meet t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gether at such place or places within each County, as they shall respectively agree upon, in order to assess the Rates mentioned in this Act, and also to appoint Receivers or Collectors to receive or gather the same. And after such Meeting had, the said assessors shall by Warrant from some Justice of the Peace of the proper Country, cause the Constables within the said County, to bring in Cirtificates in Writing of the Names of every person residing within the Limits of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se places; with which they shall be charged; and of the Substances and Values
+<pb facs="tcp:208667:3"/> of every of them, who are to be rated by this Act; which said Con<g ref="char:EOLhyphen"/>stables shall be paid or allowed by the Collectors three Pence <hi>per</hi> Pound for their trouble therein. And the said assessors are hereby injoyned, to assertain and inform themselves, by all lawfull means they can, of the true Valuation of the clear Estates, both real and personal, within those Counties and Limits, with which they shall be charged respectively. And being so thereof ascertained, they are to assess themselves, and others for and in respect of the said Estates, according to Rates afore-mentioned, having due regard to the ability of the people, and to the unprofitable Land they hold, and thereupon to appoint such and so many Collectors or Receivers thereof as they the said assessors shall think fit, within their respec<g ref="char:EOLhyphen"/>tive Limits; for which service the said assessors shall receive or be allowed six pence <hi>per</hi> Pound out of the said assessment.</p>
+            <p>And be it further Enacted by the Authority aforesaid, That the Rates, Assesments and Taxations aforesaid, shall be made and ascer<g ref="char:EOLhyphen"/>tained with what Expedition may be, so that the m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iety or half part thereof may be levyed, collected and paid in to the Receivers respectively on or before the tenth day of the ninth Month next, and the other half thereof on or before the tenth day of the s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Month, in the Year 1694. at such places as the said assessors shall appoint. Which said assessments, with the Names and several Values of their Respective Estates, together also with the real Sums levyed by this Act, shall be returned and fairly certified by the said Collectors to the next General Assembly, after the same is assessed, as aforesaid.</p>
+            <p>And be it further Enacted by the Authority aforesaid, That if any of the said assessors shall neglect or refuse to make such assessments, as by this Act is required, or in case the Collectors, so as af<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>resaid chosen, shall deny, neglect or refuse to collect any sum or sums of Money, in form afore-mentioned assest, and be convicted thereof, shall be fined at the discretion of the Justices of the respective County Courts.</p>
+            <p>And be it further Enacted by the Authority aforesaid, That if any Person or Persons whatsoever within this Government, who shall be assest or rated any sum or sums of Money, by virtue of this Act, to be levyed, shall deny, refuse or delay to pay the same, that then it shall and may be lawful for any such Collector, by virtue of a Warrant under the Hand and Seal of any Justice of the Peace for the County where such Offender shall reside, who by virtue of this act are req̄uired &amp; authorized to grant such Warrants to levy the same by distress and sale of such person or persons Goods and Chattels, returning the Over-plus, if any be, to the Owners, after the sum assessed or distrained for, with all Charges, are deducted.</p>
+            <pb facs="tcp:208667:4"/>
+            <p> And be it further Enacted by the Authority aforesaid, That the Moneys or Effects gathered and received by the said Collectors within their respective Limits, by virtue of this Act, shall from time to time be duely paid to such Treasurer or Treasurers as shall be appointed by the Governor to receive the same, whose Receipts shall be a sufficient Discharge unto such Collectors, which said Collectors for gathering the said particular Sums, shall retain in their hands respectively, for every Twenty Shillings by them paid in, as aforesaid, the sum of One Shilling, as a Reward for their pains and service.</p>
+            <p>Provided always, That if any person or persons certified, assessed or rated, for or in respect of any Estate, for which by this Act he or they is or may be rated, do find him or themselves agrieved with such rating, and do within ten days after complain to any three of the Assessors, that signed or allowed his or their Rate, who shall within ten dayes after such Complaint particularly examine the person complaining, or any other person, touching the value of the Com<g ref="char:EOLhyphen"/>plainants real and personal Estate, and there-upon the said assessors shall abate, defaulk, or increase the said assessments, according as Complainants shall appear to be worth, either by the parties own attest or proof of others.</p>
+            <p>And be it further Enacted by the Authority aforesaid, That if any person be sued for any thing done in pursuance of this Act, such person so sued may plead the general Issue, and give this Act a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ecial Matter in Evidence; and if the Plantiff or Prosecutor <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ast, the Defendant shall recover treble Damages.</p>
+            <p>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Th<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> none shall be hereby <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ed by virtue of this Act, for any neglect or miscarriage in the Execution thereof, but within one year after such Offence.</p>
+            <p>Provided also, and be it further Enacted by the authority afore<g ref="char:EOLhyphen"/>said, That the several Collectors shall gather and receive the respec<g ref="char:EOLhyphen"/>tive sums assessed, as aforesaid, in currant Money of this Province, or for want thereof in good Merchantable Country Produce at the currant Market price.</p>
+            <pb facs="tcp:208667:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
